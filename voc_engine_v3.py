@@ -14,12 +14,12 @@ BASE = dict(
     payroll_base=0.30e6, maint=0.012e6, asia_overhead=0.006e6,
     infra_growth=0.12e6, infra_cap=8.0e6, infra_rate=0.06,
     div_rate=7.0, div_reserve=0.8e6, div_form="cash",
-    war=False, war_loss_extra=0.10, war_prize=2.5e6, war_sales_cut=0.20,
+    war=False, war_loss_extra=0.0, war_prize=2.5e6, war_sales_cut=0.20,
     fail_prob=0.03, fail_recover=0.97, centr=0.07, centr_unrest=0.05,
     wisselbank=True, disposs_on=True, centralization_on=True, permanent_capital=True,
     credit_limit=2.0e6, interest=0.05,
     jobs_k=0.9, cong=0.06, antw=0.004, dis_k=0.20, disposs=0.0015,
-    scarcity=0.02, ship_loss=0.12, max_launch=16, a=0.35,
+    scarcity=0.02, ship_loss=None, max_launch=16, a=0.35,
     pop_scale_nominal=True,
 )
 WAR_YEARS = set(range(1652, 1655)) | set(range(1665, 1668))
@@ -30,6 +30,7 @@ STINGY   = dict(div_rate=6.0, div_form="spices", war=False)
 WARLIKE  = dict(div_rate=7.0, div_form="cash", war=True)
 
 import voc_council
+from das_loss import das
 
 
 def run_dutch(p, years=range(1585, 1661), seed=42):
@@ -86,7 +87,8 @@ def run_dutch(p, years=range(1585, 1661), seed=42):
                              f"revenue {prev_snap['rev']/1e6:.2f}M->{prev_rev/1e6:.2f}M per year, "
                              f"debt {prev_snap['debt']/1e6:.2f}M->{debt/1e6:.2f}M, "
                              f"unrest {prev_snap['unrest']:.2f}->{unrest:.2f}, "
-                             f"cumulative dividends {prev_snap['cum_div']:.1f}%->{cum_div:.1f}%.")
+                             f"cumulative dividends {prev_snap['cum_div']:.1f}%->{cum_div:.1f}%. "
+                         f"Actual outbound loss rate (DAS): {das.loss_rate(year)*100:.1f}%.")
                 ctx = dict(year=year, cash_mln=cash/1e6, debt_mln=debt/1e6,
                            price=100.0 if np.isnan(voc_price) else float(voc_price),
                            recent_divs=div_history[-3:], unrest=unrest, war=war_last,
@@ -126,7 +128,8 @@ def run_dutch(p, years=range(1585, 1661), seed=42):
             for gc in fleet_mid: fleet_ret.append(gc)
             fleet_mid = []
             for gc in list(fleet_ret):
-                if rng.random() < (p['ship_loss'] + (p['war_loss_extra'] if war else 0.0)):
+                loss_p = das.loss_rate(year) if p['ship_loss'] is None else p['ship_loss']
+                if rng.random() < loss_p:
                     fleet_ret.remove(gc); continue
                 rev = gc * p['markup'] * (1 - p['war_sales_cut'] if war else 1.0)
                 if p['permanent_capital']: cash += rev
