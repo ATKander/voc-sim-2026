@@ -1,0 +1,408 @@
+=== 1602 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 8}
+=== 1602 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 8}
+=== 1602 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 8}
+=== 1602 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 8}
+=== 1602 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 8}
+=== 1602 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 8}
+=== 1602 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Delft merchant-df0 t=0.5 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Delft merchant-df1 t=0.6 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1602 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 8}
+=== 1602 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 8}
+=== 1607 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 10}
+=== 1607 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 10}
+=== 1607 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 10}
+=== 1607 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 0, "form": "spices", "war": true, "ships": 10}
+=== 1607 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 11}
+=== 1607 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Delft merchant-df0 t=0.5 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Delft merchant-df1 t=0.6 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 10}
+=== 1607 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 0, "form": "cash", "war": true, "ships": 12}
+=== 1612 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2.5, "form": "spices", "war": true, "ships": 10}
+=== 1612 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2.5, "form": "cash", "war": true, "ships": 10}
+=== 1612 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 10}
+=== 1612 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2.5, "form": "cash", "war": true, "ships": 10}
+=== 1612 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 11}
+=== 1612 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2.5, "form": "spices", "war": true, "ships": 11}
+=== 1612 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2.5, "form": "spices", "war": true, "ships": 10}
+=== 1612 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2.5, "form": "spices", "war": true, "ships": 10}
+=== 1612 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1612 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2.5, "form": "cash", "war": true, "ships": 10}
+=== 1612 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1612 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1612 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 10}
+=== 1612 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2.5, "form": "spices", "war": true, "ships": 10}
+=== 1612 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1612 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1612 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1617 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 10}
+=== 1617 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1617 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 10}
+=== 1617 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 10}
+=== 1617 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1617 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1622 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 14}
+=== 1622 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1622 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1622 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1627 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1627 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1627 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1627 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1632 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1632 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1632 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1632 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1637 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1637 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1642 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1642 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1642 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1642 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1642 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1642 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1647 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1647 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1647 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1647 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1652 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1652 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1652 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1652 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am0 t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am4 t=0.9 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am5 t=1.0 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am6 t=1.1 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Amsterdam merchant-am7 t=1.2000000000000002 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Zeeland merchant-ze0 t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Zeeland merchant-ze1 t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Zeeland merchant-ze2 t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Zeeland merchant-ze3 t=0.8 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Delft merchant-df0 t=0.5 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Delft merchant-df1 t=0.6 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Rotterdam merchant-rt t=0.5 ===
+{"div_rate": 2, "form": "spices", "war": true, "ships": 12}
+=== 1657 Hoorn merchant-hn t=0.6 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
+=== 1657 Enkhuizen merchant-en t=0.7 ===
+{"div_rate": 2, "form": "cash", "war": true, "ships": 12}
